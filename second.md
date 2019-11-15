@@ -1,1 +1,1 @@
-This is the frist line.
+This is a different way of changing the first line of second.md
